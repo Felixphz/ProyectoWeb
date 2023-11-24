@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Reserva">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="reserva" password="1234" type="javax.sql.DataSource" url="jdbc:mysql://127.0.0.1:3306/reservas?zeroDateTimeBehavior=CONVERT_TO_NULL" username="root"/>
+</Context>
